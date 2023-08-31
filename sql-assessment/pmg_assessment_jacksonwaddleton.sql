@@ -68,4 +68,4 @@ JOIN website_revenue on marketing_data.campaign_id = website_revenue.campaign_id
 GROUP BY dayOfWeek
 ORDER BY impressionRatio desc;
 
--- The best day of the week to run ads can be determined in multiple ways. In my opinion, Friday is the best day of the weel due to its association with high impression, conversion, and profit ratios. 
+-- The best day of the week to run ads can be determined in multiple ways. In my opinion, Friday is the best day of the week due to its association with high impression, conversion, and profit ratios. 
